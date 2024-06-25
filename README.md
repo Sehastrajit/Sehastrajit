@@ -6,6 +6,6 @@
 
 ### Languages and Tools
 
-![JavaScript](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/b16da288-0fad-414c-9746-7f832867e29a) ![Node.js](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/9ececfc3-0b7d-478e-adb0-2382331dd37b) ![Visual Studio Code (VSC)](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/61dd05de-6203-400e-949a-9d1273ab68c1) ![Python](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/22323abb-55d8-4032-9a25-37e621061da0) ![Git](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/c3cf2d23-e9e0-4a4b-bef0-85f9cbc51415) ![HTML 5](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/8af188b4-5df7-4a81-a336-ecee69227496)
-JavaScript logo         Node.js logo          Visual Studio Code (VSC) logo          Python logo          Git logo          HTML 5 logo
-
+| ![JavaScript](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/b16da288-0fad-414c-9746-7f832867e29a) | ![Node.js](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/9ececfc3-0b7d-478e-adb0-2382331dd37b) | ![Visual Studio Code (VSC)](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/61dd05de-6203-400e-949a-9d1273ab68c1) | ![Python](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/22323abb-55d8-4032-9a25-37e621061da0) | ![Git](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/c3cf2d23-e9e0-4a4b-bef0-85f9cbc51415) | ![HTML 5](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/8af188b4-5df7-4a81-a336-ecee69227496) |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| JavaScript logo | Node.js logo | Visual Studio Code (VSC) logo | Python logo | Git logo | HTML 5 logo |

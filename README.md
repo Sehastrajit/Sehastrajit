@@ -7,7 +7,8 @@
 ### Languages and Tools:
 
 
-JavaScript ![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/b16da288-0fad-414c-9746-7f832867e29a) Node JS ![212257460-738ff738-247f-4445-a718-cdd0ca76e2db](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/9ececfc3-0b7d-478e-adb0-2382331dd37b)
+![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/b16da288-0fad-414c-9746-7f832867e29a) ![212257460-738ff738-247f-4445-a718-cdd0ca76e2db](https://github.com/Sehastrajit/Sehastrajit/assets/86580761/9ececfc3-0b7d-478e-adb0-2382331dd37b)
+JavaScript                                                                  Node JS
 
 VSC
 

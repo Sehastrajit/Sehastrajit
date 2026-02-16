@@ -1,75 +1,29 @@
 <div align="center">
 
-# ZERO — AI Systems by Sehastrajit
+<img src="assets/zero.gif" width="720" />
 
-<img src="assets/zero.gif" width="700">
+# ZERO
+### AI Assistant • Systems Engineer • Model Builder
 
-### 🧠 AI/ML Engineer | LLM Systems | Computer Vision | MLOps
-
-*"Building intelligent systems that think, learn, and scale."*
-
-</div>
-
----
-
-## ✨ About ZERO
-
-**ZERO** represents my approach to AI engineering — designing intelligent systems that bridge research and real-world deployment.
-
-- 🧠 Large Language Models & Memory-Augmented Architectures  
-- 🌍 Geospatial Computer Vision & Foundation Models  
-- ☁️ Cloud-native ML Infrastructure & MLOps  
-- ⚡ Model Optimization & Efficient Inference  
-
----
-
-## 🚀 About Me
-
-I build **production-grade AI systems** focused on scalability, efficiency, and real-world impact.
-
-```
-
-Research  →  Engineering  →  Production
-
-```
-
-🎓 M.S. Computer Science — Arizona State University  
-⚙️ AI/ML Engineer focused on intelligent infrastructure.
-
----
-
-## 🧩 AI Engineering Focus
-
-| LLM Systems | Computer Vision | ML Infrastructure | Optimization |
-|:--:|:--:|:--:|:--:|
-| Transformers | Foundation Models | AWS + MLOps | Quantization |
-| Long Context | Geospatial AI | Data Pipelines | Efficient Inference |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-🐍 Python • 🔥 PyTorch • ☁️ AWS • 🐳 Docker • 🌿 Git • 🐧 Linux
+<p>
+  <a href="mailto:sselvach@asu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sselvech%40asu.edu-0A0A0A?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/sehastrajit-s"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sehastrajit-0A0A0A?style=for-the-badge"></a>
+  <a href="https://github.com/Sehastrajit"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@Sehastrajit-0A0A0A?style=for-the-badge"></a>
+</p>
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## 🧠 ZERO Console
 
-- Long-context reasoning architectures  
-- Agentic AI systems  
-- GPU-accelerated inference  
-- Scalable ML data pipelines  
+```txt
+[ZERO] boot sequence ............... OK
+[ZERO] context window .............. EXPANDED
+[ZERO] toolchain ................... READY
+[ZERO] inference engine ............ ONLINE
+[ZERO] deployment mode ............. PROD
 
----
-
-<div align="center">
-
-### ⭐ ZERO — Intelligent Systems by Design
-
-</div>
-
-
+> ping ZERO
+> connect --channel "internships | research | ML systems"
+> route --to "sselvach@asu.edu"

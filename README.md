@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # ZERO — AI Systems by Sehastrajit
@@ -72,5 +71,5 @@ Research  →  Engineering  →  Production
 ### ⭐ ZERO — Intelligent Systems by Design
 
 </div>
-```
+
 

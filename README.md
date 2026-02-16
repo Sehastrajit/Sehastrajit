@@ -1,96 +1,76 @@
-Got you 👍 — let’s make it **visually polished + modern + AI-engineer aesthetic**, like the profiles you see from NVIDIA / OpenAI / top ML engineers.
-
-Here’s a **fancy, clean, and high-impact GitHub README intro** you can directly paste:
-
----
-
-## 🚀 Fancy AI/ML Engineer GitHub Intro
-
-````markdown
+```markdown
 <div align="center">
 
-# 👋 Hi, I'm Sehastrajit  
+# ZERO — AI Systems by Sehastrajit
+
+<img src="assets/zero.gif" width="700">
 
 ### 🧠 AI/ML Engineer | LLM Systems | Computer Vision | MLOps
 
-<img src="https://github.com/Sehastrajit/Sehastrajit/assets/86580761/7538c33c-4bd4-47c1-9796-ac5b184bd750" width="700"/>
+*"Building intelligent systems that think, learn, and scale."*
 
 </div>
 
 ---
 
-## ✨ About Me
+## ✨ About ZERO
 
-💡 I design **production-grade AI systems** that bridge research and real-world deployment.
+**ZERO** represents my approach to AI engineering — designing intelligent systems that bridge research and real-world deployment.
 
-🔭 Currently building scalable solutions across:
-
-- 🧠 **Large Language Models & Memory-Augmented Transformers**
-- 🌍 **Geospatial Computer Vision & Foundation Models**
-- ☁️ **Cloud-native ML Infrastructure (AWS + MLOps)**
-- ⚡ **Model Optimization & Efficient Inference**
-
-🎓 M.S. Computer Science @ Arizona State University  
-⚙️ Passionate about building intelligent systems that scale.
+- 🧠 Large Language Models & Memory-Augmented Architectures  
+- 🌍 Geospatial Computer Vision & Foundation Models  
+- ☁️ Cloud-native ML Infrastructure & MLOps  
+- ⚡ Model Optimization & Efficient Inference  
 
 ---
 
-## 🧩 Core AI Focus
+## 🚀 About Me
 
-```text
-LLMs • Transformers • Model Optimization • Computer Vision
-Distributed Data Processing • MLOps • Production ML Pipelines
-````
+I build **production-grade AI systems** focused on scalability, efficiency, and real-world impact.
+
+```
+
+Research  →  Engineering  →  Production
+
+```
+
+🎓 M.S. Computer Science — Arizona State University  
+⚙️ AI/ML Engineer focused on intelligent infrastructure.
 
 ---
 
-## 🛠️ AI/ML Tech Stack
+## 🧩 AI Engineering Focus
+
+| LLM Systems | Computer Vision | ML Infrastructure | Optimization |
+|:--:|:--:|:--:|:--:|
+| Transformers | Foundation Models | AWS + MLOps | Quantization |
+| Long Context | Geospatial AI | Data Pipelines | Efficient Inference |
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Python | PyTorch | AWS | Docker | Git | Linux |
-| :----: | :-----: | :-: | :----: | :-: | :---: |
-|   🐍   |    🔥   |  ☁️ |   🐳   |  🌿 |   🐧  |
+🐍 Python • 🔥 PyTorch • ☁️ AWS • 🐳 Docker • 🌿 Git • 🐧 Linux
 
 </div>
 
 ---
 
-## 📈 What I’m Building
+## 🌱 Currently Exploring
 
-🚀 Memory-augmented conversational agents
-🛰️ Large-scale geospatial detection systems
-⚡ Efficient inference pipelines for AI workloads
-☁️ Scalable cloud data pipelines for ML
-
----
-
-## 🌱 Current Interests
-
-* Foundation Models & Long-context Reasoning
-* GPU Acceleration & Inference Optimization
-* Agentic AI Systems
-* Real-world AI for Sustainability & Healthcare
+- Long-context reasoning architectures  
+- Agentic AI systems  
+- GPU-accelerated inference  
+- Scalable ML data pipelines  
 
 ---
 
 <div align="center">
 
-⭐ Building AI that scales from **research → production**
+### ⭐ ZERO — Intelligent Systems by Design
 
 </div>
 ```
-
----
-
-## 🔥 Why this looks “fancy” (high-level design tricks)
-
-This version uses:
-
-✔ Centered hero section (elite profiles do this)
-✔ Visual hierarchy (big title → specializations → content)
-✔ Minimal text, high signal
-✔ Clean emoji usage (not cluttered)
-✔ Recruiter-friendly scanning
-✔ AI-engineer branding instead of developer branding
 

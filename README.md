@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sehastrajit)](https://git.io/streak-stats)
 
-# ZERO
+
 ### AI Assistant • Systems Engineer • Model Builder
 
 <p>
@@ -13,17 +13,3 @@
 
 </div>
 
----
-
-## 🧠 ZERO Console
-
-```txt
-[ZERO] boot sequence ............... OK
-[ZERO] context window .............. EXPANDED
-[ZERO] toolchain ................... READY
-[ZERO] inference engine ............ ONLINE
-[ZERO] deployment mode ............. PROD
-
-> ping ZERO
-> connect --channel "internships | research | ML systems"
-> route --to "sselvach@asu.edu"

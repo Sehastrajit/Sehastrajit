@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/zero.gif" width="720" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sehastrajit)](https://git.io/streak-stats)
 
 # ZERO
 ### AI Assistant • Systems Engineer • Model Builder
